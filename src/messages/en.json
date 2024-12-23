@@ -1,0 +1,98 @@
+{
+  "Header": {
+    "title": "Sushi Ghar",
+    "subTitle": "A slice of heaven",
+    "logo": "Logo",
+    "sushiImage": "Sushi Image",
+    "scroll": "Scroll",
+    "hamburgerMenu": "Open Navigation Menu"
+  },
+  "NavMenu": {
+    "home": "Home",
+    "menu": "Menu",
+    "atmosphere": "Atmosphere",
+    "access": "Access",
+    "reservation": "Reservation",
+    "navigationMenu": "Navigation Menu"
+  },
+  "SushiTypes": {
+    "title": "Sushi Types",
+    "nigiriSushiTitle": "Nigiri Sushi",
+    "nigiriSushiDescription": "Our nigiri sushi is made with the freshest fish and rice, and is sure to delight your taste buds. Try our salmon, tuna, or yellowtail nigiri for a truly authentic sushi experience.",
+    "makiRollsTitle": "Maki Rolls",
+    "makiRollsDescription": "Our maki rolls are a customer favorite! Choose from a variety of fillings, including salmon, tuna, crab, and avocado. Each roll is expertly crafted and bursting with flavor.",
+    "sashimiPlatterTitle": "Sashimi Platter",
+    "sashimiPlatterDescription": "A fresh and flavorful assortment of raw fish, sliced to perfection. Our sashimi platter is perfect for sharing with friends and family."
+  },
+  "Preparation": {
+    "title": "What sushi is",
+    "preparation": "We believe that sushi is more than just food, it's an experience that engages all of your senses."
+  },
+ "Menu": {
+    "menu": "Menu",
+    "currency": "PKR",
+    "mainDishesTitle": "Dishes",
+    "mainDishesItems": {
+      "1": { "title": "Tuna Sashimi", "price": "1999" },
+      "2": { "title": "Salmon Sashimi", "price": "1799" },
+      "3": { "title": "Yellowtail Sashimi", "price": "2099" },
+      "4": { "title": "Eel Sushi", "price": "749" },
+      "5": { "title": "Shrimp Sushi", "price": "599" },
+      "6": { "title": "Octopus Sushi", "price": "899" },
+      "7": { "title": "California Roll", "price": "999" },
+      "8": { "title": "Spicy Tuna Roll", "price": "1149" },
+      "9": { "title": "Dragon Roll", "price": "1999" },
+      "10": { "title": "Rainbow Roll", "price": "2099" },
+      "11": { "title": "Spider Roll", "price": "1799" },
+      "12": { "title": "Unagi Don", "price": "2249" },
+      "13": { "title": "Chirashi Don", "price": "2549" },
+      "14": { "title": "Tekka Don", "price": "2399" }
+    },
+    "drinksTitle": "Drinks",
+    "drinksItems": {
+      "1": { "title": "Green Tea", "price": "299" },
+      "2": { "title": "Sake", "price": "899" },
+      "3": { "title": "Beer", "price": "749" },
+      "4": { "title": "Plum Wine", "price": "1049" },
+      "5": { "title": "Whiskey", "price": "1199" },
+      "6": { "title": "Shochu", "price": "1349" },
+      "7": { "title": "Umeshu", "price": "1499" },
+      "8": { "title": "Oolong Tea", "price": "449" },
+      "9": { "title": "Orange Juice", "price": "599" },
+      "10": { "title": "Grapefruit Juice", "price": "749" },
+      "11": { "title": "Coke", "price": "449" },
+      "12": { "title": "Sprite", "price": "449" },
+      "13": { "title": "Ramune", "price": "599" },
+      "14": { "title": "Calpis", "price": "749" }
+    }
+  },
+  "Testimonials": {
+    "title": "Testimonials",
+    "testimonial1Name": "Ali ",
+    "testimonial1Testimonial": "“I’ve been coming to this sushi restaurant for years and it never disappoints. The sushi is always fresh and delicious, and the staff is friendly and welcoming. I highly recommend it!”",
+    "testimonial2Name": "Layla",
+    "testimonial2Testimonial": "“This sushi restaurant is a hidden gem! The sushi is some of the best I’ve ever had, and the prices are very reasonable. I would definitely recommend it to anyone looking for great sushi.”",
+    "testimonial3Name": " Wilson",
+    "testimonial3Testimonial": "“The sushi here is amazing! I’ve never had anything like it before. The fish is so fresh and the rice is perfectly cooked. I would definitely recommend this place to anyone looking for great sushi.”"
+  },
+  "Atmosphere": {
+    "title": "Atmosphere",
+    "description": "Our restaurant is designed to provide a serene and relaxing atmosphere where you can enjoy the freshest sushi and sashimi in town. Whether you’re looking for a romantic dinner for two or a fun night out with friends, our restaurant is the perfect choice."
+  },
+  "Reservation": {
+    "title": "Reservation",
+    "phoneTitle": "Reservation - Enquiries",
+    "buttonText": "Internet Reservation"
+  },
+  "Access": {
+    "title": "Access",
+    "addressTitle": "Address",
+    "addressText": "Blue Area , Islamabad ,Pakistan",
+    "accessTitle": "Access",
+    "accessText": "  5 PM /  1AM",
+    "enquiryTitle": "Enquiries"
+  },
+  "Other": {
+    "backToTop": "Back to Top"
+  }
+}
